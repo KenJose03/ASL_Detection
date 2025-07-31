@@ -1,0 +1,31 @@
+# Ignore all dataset folders for ASLModel
+# Datasets
+asl_alphabet_train/
+asl_alphabet_test/
+webcam_data/
+
+# Python cache and metadata
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter and notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Ignore any other large files
+*.zip
+*.tar.gz
+*.tar
+*.7z
+*.rar
