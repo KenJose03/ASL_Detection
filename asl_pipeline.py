@@ -25,7 +25,7 @@ import argparse
 # --- CONFIG ---
 IMG_SIZE = 224
 BATCH_SIZE = 32
-NUM_CLASSES = 29
+NUM_CLASSES = 28
 EPOCHS = 20
 DATA_DIR = r'C:\Users\kenjo\ASLModel\asl_alphabet_train\asl_alphabet_train'  # Change to your dataset path
 MODEL_PATH = 'asl_mobilenetv2.h5'
